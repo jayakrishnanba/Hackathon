@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/jayakrishnan/Auto Ontology/system1/stage2/jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/jayakrishnan/Auto Ontology/system1/stage2/jar/fontbox-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/jayakrishnan/Auto Ontology/system1/stage2/jar/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/jayakrishnan/Auto Ontology/system1/stage2/jar/lucene-core-2.9.3.jar"/>
+	<classpathentry kind="lib" path="/home/jayakrishnan/Auto Ontology/system1/stage2/jar/lucene-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/jayakrishnan/Auto Ontology/system1/stage2/jar/lucene-misc-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/jayakrishnan/Auto Ontology/system1/stage2/jar/pdfbox-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/jayakrishnan/Auto Ontology/system1/stage2/jar/stanford-ner.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
